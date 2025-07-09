@@ -9,11 +9,11 @@
 <p align="left">
 <a href="https://twitter.com/majumder_shuvam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="majumder_shuvam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shuvam majumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvam majumder" height="30" width="40" /></a>
-<a href="https://kaggle.com/shuvam majumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shuvam majumder" height="30" width="40" /></a>
+<a href="https://kaggle.com/shuvammajumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shuvammajumder" height="30" width="40" /></a>
 <a href="https://fb.com/shuvam majumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shuvam majumder" height="30" width="40" /></a>
-<a href="https://instagram.com/rock_to" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rock_to" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shuvam majumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shuvam majumder" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shuvam majumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shuvam majumder" height="30" width="40" /></a>
+<a href="https://instagram.com/_rock_to" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rock_to" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@2021_c_63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@2021_c_63" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shuvammajumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shuvammajumder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
